@@ -1,0 +1,25 @@
+
+.nav-bar h3{
+    background-color:grey;
+
+    margin: auto; 
+    float: left;
+    width: 150px;
+    height: auto;
+    color: aliceblue;
+    margin-top: 25px;
+    padding: 5px 20px;
+}
+.nav-bar button{
+    background-color:grey;
+    float: right;
+    width: 100px;
+    color:honeydew;
+    margin-top: 25px;
+    padding: 5px 20px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    padding: 10px 30px;
+    
+}
